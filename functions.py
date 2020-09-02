@@ -35,3 +35,4 @@ def add(num1, num2):
 
 
 print(add(420, 69))
+print(add(1000000, 8000000))
